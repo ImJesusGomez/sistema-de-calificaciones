@@ -1,0 +1,33 @@
+¡Claro! Aquí te presento un problema imaginario en Java que incorpora todos los conceptos que mencionaste. Este problema te ayudará a mejorar tu lógica de programación y tu comprensión de los operadores en Java.
+
+### Problema: Sistema de calificaciones
+
+Desarrolla un programa en Java que permita calcular la calificación final de un estudiante basado en las siguientes ponderaciones:
+
+- Examen parcial (40%)
+- Trabajos prácticos (30%)
+- Participación en clase (10%)
+- Proyecto final (20%)
+
+El programa debe:
+
+1. Solicitar al usuario que ingrese las siguientes calificaciones:
+   - Calificación del examen parcial (de 0 a 100)
+   - Calificación de los trabajos prácticos (de 0 a 100)
+   - Calificación de participación en clase (de 0 a 100)
+   - Calificación del proyecto final (de 0 a 100)
+
+2. Calcular la calificación final utilizando los porcentajes dados.
+
+3. Mostrar la calificación final y determinar si el estudiante aprobó o reprobó. La calificación mínima aprobatoria es 60.
+
+Este código incluye:
+
+- Operadores aritméticos (`*`)
+- Operadores de asignación (`=`)
+- Operadores relacionales (`>=`)
+- Operador ternario (`? :`)
+- Operador instanceof (`instanceof`)
+- Precedencia de los operadores
+
+Espero que este problema te sea útil para practicar y mejorar tus habilidades en programación con Java. ¡Buena suerte!
